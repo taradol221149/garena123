@@ -1,0 +1,27 @@
+.container-center2{
+margin-left: 45%;
+margin-top: 5rem;
+margin-bottom: 4rem;
+}
+.container-center2 p{
+    font-size: 40px;
+    font-weight: 900;
+}
+.container-center3{
+    display: flex;
+    flex-direction: row;
+}
+#Box{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30rem;
+    margin: 50px;
+    margin-right: 0.5rem;
+    padding: 100px 60px 100px 60px;
+    border-radius: 10px;
+}
+.Box1{
+    margin-left: 3rem;
+}
